@@ -14,7 +14,6 @@ function App() {
   <>
   <BioProvider>
   <Home />
-
   </BioProvider>
   {/*example of propdrilling go and check all files home 2 home 3 home4 */}
   <Home2 myname="dheeraj"/>
